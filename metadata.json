@@ -1,0 +1,7 @@
+{
+  "name": "Edwin AI - Travel Consultant",
+  "description": "An AI-powered travel consultant and financial analyst that optimizes your trip budget using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
