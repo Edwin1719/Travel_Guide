@@ -12,6 +12,8 @@ Users can input their travel parameters through a sleek, modern interface, and t
 <img src="IMG.gif" alt="Animated Demo of Edwin AI - Financial Travel Consultant" width="800"/>
 </div>
 
+![texto del vínculo](https://cdn.cpdonline.co.uk/wp-content/uploads/2023/04/28123407/Experienced-chef-de-partie-1200x350.jpg)
+
 ## ✨ Key Features
 
 - **✈️ Intelligent Trip Configuration**: A dedicated dashboard to input origin, destination, dates, traveler numbers, accommodation preferences, and budget.
