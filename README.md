@@ -2,7 +2,7 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# - Financial Travel Consultant
+# Financial Travel Consultant
 
 **Edwin AI** is a sophisticated, AI-powered travel consultant designed to provide intelligent financial analysis and optimized travel planning. This application leverages the power of the Google Gemini API to deliver a seamless, interactive experience for planning your next journey, focusing on budget optimization and logistical efficiency.
 
