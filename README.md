@@ -60,7 +60,7 @@ Follow these steps to run the application locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/Edwin1719/Travel_Guide.git>
     cd <repository-directory>
     ```
 
