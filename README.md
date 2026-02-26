@@ -1,5 +1,5 @@
 
-![Logo]()
+![Demo de la aplicación](https://img.freepik.com/vector-gratis/diseno-plantilla-ai-degradado_23-2150380008.jpg)
 
 
 # Financial Travel Consultant
