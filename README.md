@@ -1,4 +1,4 @@
-![Logo](https://miro.medium.com/v2/resize:fit:1400/1*iDVq2ZWRALmV-r5ekscFNA.png)
+![Logo](https://asiri.es/wp-content/uploads/2025/03/ai-travel-agent.webp)
 
 # Financial Travel Consultant
 
